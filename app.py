@@ -188,7 +188,7 @@ if search_query:
 
 
 # import data
-books = pd.read_csv('Data/Books.csv')  
+books = pd.read_csv('Books.csv')  
 users = pd.read_csv('Data/Users.csv') 
 ratings = pd.read_csv('Data/Ratings.csv') 
 
